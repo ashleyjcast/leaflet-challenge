@@ -1,0 +1,15 @@
+#map {
+    height: 90vh; 
+    width: 100%; 
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.info.legend {
+    background: white;
+    padding: 10px;
+}
