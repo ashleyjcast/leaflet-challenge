@@ -4,6 +4,10 @@ The goal of this assignment was to use leaflet to create an interactive map usin
 
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+https://www.openstreetmap.org/copyright
 
 Coordinates for the center of the US found on stack overflow 
 https://stackoverflow.com/questions/13785466/default-center-on-united-states
+
+JavaScript color ranges
+https://www.w3schools.com/colors/colors_picker.asp?colorhex=FF0000
